@@ -3,3 +3,7 @@ package.json
 wrangler.jsonc
 .gitignore
 .assetsignore
+worker.js
+node_modules/
+.wrangler/
+*.log
